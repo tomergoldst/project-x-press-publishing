@@ -1,5 +1,7 @@
 # X-Press Publishing
 
+X-Press Publishing is a Node.js capstone project for [Codecademy Web Development course](https://www.codecademy.com/learn/paths/web-development).
+
 ## Project Overview
 
 In this capstone project, you will build all of the routing and database logic for an internal tool for a comic book publishing company called X-Press Publishing.
